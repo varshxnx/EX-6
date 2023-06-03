@@ -60,9 +60,7 @@ while True:
 ```
 
 OUTPUT :
-
 ![client6](https://github.com/varshxnx/EX-6/assets/122253525/ffd4ec7e-0e35-40dc-befb-c6dd88eab557)
-
 ![server6](https://github.com/varshxnx/EX-6/assets/122253525/68b4813c-18da-4798-b5a8-46d8942be35c)
 
 
